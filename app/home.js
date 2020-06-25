@@ -1,1 +1,1 @@
-$("#cs-container").load("../components/carousel.html")
+$("#cs-container").load("./components/carousel.html")
